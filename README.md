@@ -1,15 +1,15 @@
-#IBM-Cognos-Dash
+##IBM-Cognos-Dash
 
 This repository contains the visualizations I have created in IBM Cognos 
 
-#Automobile Sales and Services
+Automobile Sales and Services
 
-#About
+About
 The dataset used comes from the following source: 
 https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive
 The dataset covers car sales, recalls, delears, model and sentiment.
 
-#Summary
+Summary
 
 Hudson has the highest total Quantity Sold. Quantity Sold is most high when Model is Hudson and Champlain. Across all models, the sum of Quantity Sold is over 58,118. Profit is most high when Dealer ID is 1288, 1222 and 1402. For Profit, the most significant values of Dealer ID are 1288, 1301, and 1224, whose respective Profit values add up to over 27 million, or 35.1 % of the total.
 
